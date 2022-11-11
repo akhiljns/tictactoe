@@ -1,6 +1,26 @@
 # tictactoe
 tictactoe game with concurrency handled
 
+IDEA BEHIND GAME BOARD
+
+so there are 9 boxes in tictactoe board
+
+they start from 0 to 8
+
+0 is first box in first row
+1 is middle box in first row
+2 is third box in first row
+
+3 is first box in second row
+4 is middle box in second row
+5 is third box in second row
+
+
+6 is first box in third row
+7 is middle box in third row
+8 is third box in third row
+
+
 requirements - 
 maven
 java
