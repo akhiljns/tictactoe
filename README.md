@@ -3,8 +3,8 @@ tictactoe game with concurrency handled
 
 IDEA BEHIND GAME BOARD
 
+```
 so there are 9 boxes in tictactoe board
-
 they start from 0 to 8
 
 0 is first box in first row
@@ -19,7 +19,7 @@ they start from 0 to 8
 6 is first box in third row
 7 is middle box in third row
 8 is third box in third row
-
+```
 
 requirements - 
 maven
